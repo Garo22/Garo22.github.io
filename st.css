@@ -4,8 +4,6 @@
 }
 body{
 	background-color:#fff9f912;
-	margin:0px;
-	border:0px;
 }
 .search{
 	
@@ -14,21 +12,19 @@ body{
 .Heart{
 	position: absolute;
 
-	top:300px;
-	left:380px;
+	top:210px;
+	left:352px;
 	height: 25px;
 }
 
 
 .items{
-border: 5px solid red;
-position: absolute;
-left: 25px;
+
 
 
 }
 .sourceimg{
-	position: initial;
+	position: relative;
 	height: 250px;
 	margin-bottom: 25px;
 	margin-left: 30px;
